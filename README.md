@@ -35,4 +35,5 @@ To identify sales trends, understand customer preferences, evaluate product perf
 - Average Pizzas Per Order: 2.34
 
 ## 👩‍💻 Author
+**Pranali Valve**
 Created as a data analytics project to demonstrate SQL, data analysis, and dashboard visualization skills.
